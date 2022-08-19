@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912305856897",
+    "project_id": "tripster-6cc9b",
+    "storage_bucket": "tripster-6cc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912305856897:android:c98ba7b7a2cdcb8bd98880",
+        "android_client_info": {
+          "package_name": "com.example.tripster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912305856897-3bn6ajnsclipff7r73mgekrt3pgd2srp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0b_pFXePExz9OBO0YmRX0DqUlmmJVSS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912305856897-3bn6ajnsclipff7r73mgekrt3pgd2srp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home">
+        </item>
+        <item
+            android:id="@+id/event"
+            android:icon="@drawable/ic_baseline_people_alt_24"
+            android:title="Add Event"></item>
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/ic_baseline_location_on_24"
+            android:title="Location"></item>
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_baseline_label_24"
+            android:title="Plan Flow"></item>
+
+        <item
+            android:id="@+id/report"
+            android:icon="@drawable/ic_baseline_file_copy_24"
+            android:title="Report"></item>
+
+        <item
+            android:id="@+id/maps"
+            android:icon="@drawable/ic_baseline_map_24"
+            android:title="Map"></item>
+
+        <item
+            android:id="@+id/about_place"
+            android:icon="@drawable/ic_baseline_find_replace_24"
+            android:title="About Place"></item>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_close_24"
+            android:title="Logout"></item>
+
+        </group>
+
+
+<!--    <group android:checkableBehavior="single"-->
+<!--        android:id="@+id/group2">-->
+<!--        <item android:id="@+id/nav_Policy"-->
+<!--            android:icon="@drawable/ic_baseline_policy_24"-->
+<!--            android:title="Privacy Policy">-->
+<!--        </item>-->
+<!--        <item android:id="@+id/nav_share"-->
+<!--            android:icon="@drawable/ic_baseline_share_24"-->
+<!--            android:title="Share">-->
+<!--        </item>-->
+<!--        <item-->
+<!--            android:id="@+id/nav_logout"-->
+<!--            android:icon="@drawable/logout"-->
+<!--            android:title="Logout"></item>-->
+<!--    </group>-->
+
+</menu>
